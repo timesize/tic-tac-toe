@@ -1,9 +1,9 @@
 #board li{
     float:left;
     margin:10px;
-    height:70px;
-    width:70px;
-    font-size:55px;
+    height:80px;
+    width:80px;
+    font-size:60px;
     background:#333;
     color:#ccc;
     list-style:none;
@@ -13,6 +13,11 @@
 
 #container {
     width: 350px;
-
-
 }
+
+body {
+  background: url(http://i.imgur.com/CwMw6BU.jpg);
+    background-size: cover;
+    background-position: center;
+
+  }
